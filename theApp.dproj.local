@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/07 22:06:24.000.175,=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 22:09:12.000.111,C:\Users\Aluno\Desktop\The App\uPrincipal.pas=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 22:09:12.000.111,C:\Users\Aluno\Desktop\The App\uPrincipal.dfm=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 22:10:44.000.373,C:\Users\Aluno\Desktop\The App\theApp.dproj=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/14 21:38:12.000.028,=C:\Users\Aluno-E1\Downloads\MeuApp_V1\uTabuadas.pas</Transaction>
+    <Transaction>2019/05/14 21:47:49.000.509,C:\Users\Aluno-E1\Downloads\MeuApp_V1\uTabuadas.pas=</Transaction>
+    <Transaction>2019/05/14 21:48:11.000.686,=I:\The App\uTabuadas.pas</Transaction>
+    <Transaction>2019/05/14 21:48:11.000.752,=I:\The App\uTriangulo.pas</Transaction>
+    <Transaction>2019/05/14 22:12:11.000.627,=I:\The App\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 22:14:29.000.308,I:\The App\Unit1.dfm=I:\The App\uCalculodeIMC.dfm</Transaction>
+    <Transaction>2019/05/14 22:14:29.000.308,I:\The App\Unit1.pas=I:\The App\uCalculodeIMC.pas</Transaction>
+    <Transaction>2019/05/21 21:53:28.000.339,=G:\The App\Unit1.pas</Transaction>
+    <Transaction>2019/05/21 21:53:54.000.836,=G:\The App\uCalendario.pas</Transaction>
+    <Transaction>2019/05/28 21:39:29.974,=G:\The App\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 21:41:48.784,G:\The App\uBancoDados.pas=G:\The App\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 21:41:48.784,G:\The App\uBancoDados.dfm=G:\The App\Unit1.dfm</Transaction>
+    <Transaction>2019/05/28 21:58:58.571,=G:\The App\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 22:00:09.408,G:\The App\uCadastroCliente.pas=G:\The App\Unit1.pas</Transaction>
+    <Transaction>2019/05/28 22:00:09.408,G:\The App\uCadastroCliente.dfm=G:\The App\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uTabuadas.pas"/>
+    <File Path="uTabuadas.dfm"/>
+    <File Path="uPrincipal.pas"/>
+    <File Path="uPrincipal.dfm"/>
+    <File Path="uTriangulo.pas"/>
+    <File Path="uTriangulo.dfm"/>
+    <File Path="uCalculodeIMC.pas"/>
+    <File Path="uCalculodeIMC.dfm"/>
+    <File Path="uCalendario.pas"/>
+    <File Path="uCalendario.dfm"/>
+    <File Path="uBancoDados.pas"/>
+    <File Path="uBancoDados.dfm"/>
+    <File Path="uCadastroCliente.pas"/>
+    <File Path="uCadastroCliente.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
